@@ -1,0 +1,23 @@
+.card img{
+        height: 180px;
+        border: 1px solid #fff;
+        border-radius: 5px;
+}
+h4{
+    margin: 0px;
+    padding-bottom: 5px;
+}
+.card-footer{
+    border: none;
+    background: #fff;
+}
+.btn{
+    margin-top: 20px;
+}
+.btn.btn-success{
+    transition:.4s;
+}
+.btn.btn-success:hover{
+    color: green;
+    background: #fff;
+}
